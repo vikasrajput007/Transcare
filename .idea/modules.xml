@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://D:\companies_projects\TRANSCARE\Transcare_Backup\12_03_2018\Transcare\12_03_2018.iml" filepath="D:\companies_projects\TRANSCARE\Transcare_Backup\12_03_2018\Transcare\12_03_2018.iml" />
       <module fileurl="file://$PROJECT_DIR$/Transcare.iml" filepath="$PROJECT_DIR$/Transcare.iml" />
+      <module fileurl="file://D:\companies_projects\TRANSCARE\Transcare_Backup\12_03_2018\Transcare\Transcare\Transcare.iml" filepath="D:\companies_projects\TRANSCARE\Transcare_Backup\12_03_2018\Transcare\Transcare\Transcare.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\companies_projects\TRANSCARE\Transcare_Backup\12_03_2018\Transcare\Transcare\app\app.iml" filepath="D:\companies_projects\TRANSCARE\Transcare_Backup\12_03_2018\Transcare\Transcare\app\app.iml" />
     </modules>
   </component>
 </project>
